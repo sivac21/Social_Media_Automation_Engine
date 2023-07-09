@@ -85,6 +85,5 @@ def generate_response():
 
 if __name__ == '__main__':
     # Set your OpenAI API key
-    # openai.api_key = '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' #mine
     openai.api_key = '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' #shaip
     app.run(debug=True)
